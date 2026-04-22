@@ -2,14 +2,26 @@
     "cursos":[
         {
             "id": 1,
-            "nome": "Desenvolvimento de Sistemas",
+            "nome": "MP - Desenvolvimento de Sistemas",
             "disciplinas": ["PAM II", "WEB III", "BD"],
             "carga-horaria": 3600
         },
         {
-            "id":2,
-            "nome": "Descobrimento de Sistemas",
+            "id": 2,
+            "nome": "M-Tec-PI Desenvolvimento de Sistemas",
             "disciplinas": ["PAM II", "WEB III", "BD"],
+            "carga-horaria": 3600
+        },
+        {
+            "id": 3,
+            "nome": "M-Tec-N Informática",
+            "disciplinas": ["PAM II", "WEB III", "BD", "Manutenção de Computadores e Redes", "Design de Interfaces (UI/UX)"],
+            "carga-horaria": 3600
+        },
+        {
+            "id": 4,
+            "nome": "M-Tec-N Informática para Internet",
+            "disciplinas": ["PAM II", "WEB III", "BD", "Design de Interfaces (UI/UX)", "Infraestrutura"],
             "carga-horaria": 3600
         }
     ]
