@@ -1,0 +1,16 @@
+{
+    "cursos":[
+        {
+            "id": 1,
+            "nome": "Desenvolvimento de Sistemas",
+            "disciplinas": ["PAM II", "WEB III", "BD"],
+            "carga-horaria": 3600
+        },
+        {
+            "id":2,
+            "nome": "Descobrimento de Sistemas",
+            "disciplinas": ["PAM II", "WEB III", "BD"],
+            "carga-horaria": 3600
+        }
+    ]
+}
